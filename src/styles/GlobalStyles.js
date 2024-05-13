@@ -95,7 +95,6 @@ const GlobalStyles = createGlobalStyle`
   --border-radius-md: 7px;
   --border-radius-lg: 9px;
 
-
 }
 
 *,
@@ -122,6 +121,7 @@ body {
   line-height: 1.5;
   font-size: 1.6rem;
 }
+
 
 input,
 button,
